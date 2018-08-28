@@ -22,7 +22,7 @@ class HomeComponent extends Component {
         <ul>
           <li> Alzheimer’s Society Website <a href='https://www.alzheimers.org.uk/'>Go</a></li>
           <li> Our Facebook Page <a href='https://www.facebook.com/alzheimerssocietyuk'>Go</a></li>
-          <li> Our Facebook Page <a href='https://twitter.com/alzheimerssoc'>Go</a></li>
+          <li> Our Twitter Page <a href='https://twitter.com/alzheimerssoc'>Go</a></li>
         </ul>
       </div>
       </main>
